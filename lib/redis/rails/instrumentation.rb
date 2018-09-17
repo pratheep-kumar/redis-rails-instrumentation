@@ -2,7 +2,7 @@ require 'redis'
 require 'redis/rails/instrumentation/logging'
 require 'redis/rails/instrumentation/version'
 require 'active_support'
-require '../../../vendor/bundle/bundler/gems/sweet_notifications-e86f15f0340f/Gemfile'
+
 
 class Redis
   module Rails
