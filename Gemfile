@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gemspec
 
-gem 'activesupport', '~> 4.2' if RUBY_VERSION < '2.3'
+gem 'sweet_notifications', :git => 'git@github.com:freshdesk/sweet_notifications', :branch => 'redis-testing'
